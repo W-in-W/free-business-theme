@@ -1,0 +1,16 @@
+<svg width="16" height="15.000000000000002" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <defs>
+  <clipPath id="t0zna">
+   <path id="svg_1" d="m0,15l0,-15l16,0l0,15l-16,0zm7.729,-13c-3.164,0 -5.729,2.462 -5.729,5.5c0,3.037 2.565,5.5 5.729,5.5s5.729,-2.463 5.729,-5.5c0,-3.038 -2.565,-5.5 -5.73,-5.5l0.001,0z" fill="#fff"/>
+  </clipPath>
+ </defs>
+ <g class="layer">
+  <title>Layer 1</title>
+  <g id="svg_2">
+   <g id="svg_3">
+    <path fill="none" id="svg_4" d="m7.729,2c-3.164,0 -5.729,2.462 -5.729,5.5c0,3.037 2.565,5.5 5.729,5.5s5.729,-2.463 5.729,-5.5c0,-3.038 -2.565,-5.5 -5.73,-5.5l0.001,0z"/>
+    <path id="svg_5" clip-path="url(&quot;#t0zna&quot;)" d="m7.729,2c-3.164,0 -5.729,2.462 -5.729,5.5c0,3.037 2.565,5.5 5.729,5.5s5.729,-2.463 5.729,-5.5c0,-3.038 -2.565,-5.5 -5.73,-5.5l0.001,0z" stroke-width="4" stroke-miterlimit="20" stroke-linejoin="round" stroke-linecap="round" stroke="#1ca8dd" fill="none"/>
+   </g>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,16 @@
+<svg width="16" height="14.999999999999998" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <defs>
+  <clipPath id="mubpa">
+   <path fill="#fff" d="m0,15l0,-15l16,0l0,15l-16,0zm8,-13c-3.164,0 -5.73,2.462 -5.73,5.5c0.001,3.037 2.566,5.5 5.73,5.5s5.729,-2.463 5.729,-5.5c0,-3.038 -2.565,-5.5 -5.73,-5.5l0.001,0z" id="svg_1"/>
+  </clipPath>
+ </defs>
+ <g class="layer">
+  <title>Layer 1</title>
+  <g id="svg_2">
+   <g id="svg_3">
+    <path d="m8,2c-3.164,0 -5.73,2.462 -5.73,5.5c0.001,3.037 2.566,5.5 5.73,5.5s5.729,-2.463 5.729,-5.5c0,-3.038 -2.565,-5.5 -5.73,-5.5l0.001,0z" id="svg_4" fill="none"/>
+    <path fill="none" stroke="#dedfe0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="20" stroke-width="4" d="m8,2c-3.164,0 -5.73,2.462 -5.73,5.5c0.001,3.037 2.566,5.5 5.73,5.5s5.729,-2.463 5.729,-5.5c0,-3.038 -2.565,-5.5 -5.73,-5.5l0.001,0z" clip-path="url(&quot;#mubpa&quot;)" id="svg_5"/>
+   </g>
+  </g>
+ </g>
+</svg>
